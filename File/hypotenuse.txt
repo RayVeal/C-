@@ -1,0 +1,6 @@
+Base  Height  Hypotenuse
+3     4       5
+5     12      13
+10    10      14
+1     2       2
+9     12      15
